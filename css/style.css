@@ -123,3 +123,13 @@ h1 {
         opacity: 0;
     }
 }
+
+@media only screen and (max-width: 601px) {
+    .add-todo-wrapper {
+        width: 350px;
+    }
+    
+    .todo-item {
+        width: 370px;
+    }
+}
