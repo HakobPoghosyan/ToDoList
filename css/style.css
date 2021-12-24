@@ -126,10 +126,10 @@ h1 {
 
 @media only screen and (max-width: 601px) {
     .add-todo-wrapper {
-        width: 310px;
+        width: 320px;
     }
     
     .todo-item {
-        width: 330px;
+        width: 350px;
     }
 }
